@@ -4,4 +4,6 @@
 
 仅对原版火焰进行换色处理，无其他修改。
 
-适用1.16-1.21全版本，其他版本未测试。
+适用1.16-1.21全版本（无需理会不兼容警告），其他版本未测试。
+
+下载：https://github.com/Kasualix/Amaterasu/releases/tag/universal
